@@ -1,3 +1,8 @@
+# RockPaperScissors v1.0
+# Copyright (c) 2015 Juan Martin
+# Licensed under the MIT license
+# http://www.opensource.org/licenses/mit-license.php
+
 import random  #  for random to work
 import os  #  for clrscr function to work
 
