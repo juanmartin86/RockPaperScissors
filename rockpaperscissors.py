@@ -1,5 +1,5 @@
 # RockPaperScissors v1.0
-# Copyright (c) 2015 Juan Martin
+# Copyright (c) 2015 - 2017 Juan Martin
 # Licensed under the MIT license
 # http://www.opensource.org/licenses/mit-license.php
 
